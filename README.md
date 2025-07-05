@@ -68,8 +68,8 @@ Currently exploring:
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safwa25&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safwa25&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safwa25&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safwa25&layout=compact&theme=radical)
 
 ---
 
