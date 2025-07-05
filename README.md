@@ -33,7 +33,7 @@ Currently exploring:
 `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 #### 🔧 Tools & Platforms
-`Git` `Linux``Firebase` 
+`Git` `Linux` `Firebase` 
 
 ---
 
