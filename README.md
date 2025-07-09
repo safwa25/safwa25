@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Safwa! 👋</h1>
 
 🎓 Senior Computer Science Student at Ain Shams University  
-📱 Android & Mobile Developer | 🚀 Learning Flutter | 🌱 Lifelong Learner
+📱 Android & Mobile Developer | 🚀 Learning Flutter 
 
 ---
 
