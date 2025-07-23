@@ -13,9 +13,6 @@ Currently exploring:
 - 📱 Android Development (Java/Kotlin + MVVM + jetpack compose)
 - 🧩 Cross-platform App Development with Flutter
 - 🎯 Dart Programming
-- 🔍 Clean Architecture and UI/UX best practices
-- 🤖 ML features in mobile apps (on-device ML, TensorFlow Lite)
-
 ---
 
 ### 🛠️ Skills & Tools
@@ -33,7 +30,7 @@ Currently exploring:
 `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 #### 🔧 Tools & Platforms
-`Git` `Linux` `Firebase` 
+`Git`
 
 ---
 
