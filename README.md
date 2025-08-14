@@ -8,10 +8,6 @@
 ### 🚀 About Me
 I'm a dedicated **Computer Science student** with a strong focus on **Mobile App Development**, especially on the Android platform. I’m passionate about building modern, responsive apps that solve real-world problems.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=safwa25&label=Profile%20views&color=0e75b6&style=flat" alt="safwa25" />
-</p>
-
 Currently exploring:
 
 - 📱 Android Development (Java/Kotlin + MVVM + jetpack compose)
