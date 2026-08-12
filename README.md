@@ -177,9 +177,12 @@ AI-powered recruitment platform designed to streamline the hiring process throug
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safwa25&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwa25&layout=compact&theme=radical&hide_border=true" />
+  <a href="https://github.com/safwa25?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-blue?style=for-the-badge&logo=github" />
+  </a>
 </p>
+
+
 ---
 
 ### 📫 Let's Connect
