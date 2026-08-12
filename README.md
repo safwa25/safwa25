@@ -24,19 +24,19 @@ I'm also expanding my expertise in **Flutter and cross-platform mobile developme
 
 ### 🚀 What I Work With
 
-* 📱 **Android Development** — Kotlin, Jetpack Compose, XML
-* 🏗️ **Architecture** — Clean Architecture, MVVM
-* ⚡ **Asynchronous Programming** — Kotlin Coroutines
-* 🌐 **Backend Integration** — REST APIs, Firebase
+*  **Android Development** — Kotlin, Jetpack Compose, XML
+*  **Architecture** — Clean Architecture, MVVM
+*  **Asynchronous Programming** — Kotlin Coroutines
+*  **Backend Integration** — REST APIs, Firebase
 * 💾 **Local Storage** — Room Database
-* 🧪 **Testing** — Unit Testing
-* 🦋 **Flutter Development** — Dart, BLoC / Cubit
-* 🔧 **Development Tools** — Android Studio, Git, GitHub
-* 🌱 **Currently Exploring** — Kotlin Multiplatform (KMP)
+*  **Testing** — Unit Testing
+*  **Flutter Development** — Dart, BLoC / Cubit
+*  **Development Tools** — Android Studio, Git, GitHub
+*  **Currently Exploring** — Kotlin Multiplatform (KMP)
 
 ---
 
-### 🛠️ Skills & Technologies
+###  Skills & Technologies
 
 #### 👨‍💻 Languages
 
@@ -60,7 +60,7 @@ I'm also expanding my expertise in **Flutter and cross-platform mobile developme
 
 ---
 
-### 💼 Experience
+###  Experience
 
 **Android Developer Intern — Alpha Wave**
 
@@ -98,9 +98,9 @@ I'm also expanding my expertise in **Flutter and cross-platform mobile developme
 
 ---
 
-### 🧪 Selected Projects
+### Selected Projects
 
-#### 🍔 Foodii — Meal Recipes Mobile Application
+#### Foodii — Meal Recipes Mobile Application
 
 Android application built with **Kotlin** featuring:
 
@@ -116,7 +116,7 @@ Android application built with **Kotlin** featuring:
 
 ---
 
-#### 🛒 EzBuy — E-Commerce Mobile Application
+####  EzBuy — E-Commerce Mobile Application
 
 Full-featured **Flutter** e-commerce application including:
 
@@ -130,7 +130,7 @@ Full-featured **Flutter** e-commerce application including:
 
 ---
 
-#### 🌴 Soul Trip — Wellness Tourism Mobile Application
+####  Soul Trip — Wellness Tourism Mobile Application
 
 Full-stack **Flutter** application for wellness tourism featuring:
 
@@ -142,7 +142,7 @@ Full-stack **Flutter** application for wellness tourism featuring:
 
 ---
 
-#### 🤖 HireVision — AI-Powered Recruitment Platform
+####  HireVision — AI-Powered Recruitment Platform
 
 AI-powered recruitment platform designed to streamline the hiring process through:
 
@@ -153,7 +153,7 @@ AI-powered recruitment platform designed to streamline the hiring process throug
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
 * 🥉 **3rd Place — SATC-4 Satellite Competition**
 * 🥉 **3rd Place — Beyond the Earth Hackathon**
@@ -162,7 +162,7 @@ AI-powered recruitment platform designed to streamline the hiring process throug
 
 ---
 
-### 📜 Certifications & Training
+###  Certifications & Training
 
 * Working with Data in Android — Coursera
 * Android Developer Pro Intern — EVA Pharma
@@ -175,10 +175,11 @@ AI-powered recruitment platform designed to streamline the hiring process throug
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safwa25\&show_icons=true\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safwa25\&layout=compact\&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=safwa25&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwa25&layout=compact&theme=radical&hide_border=true" />
+</p>
 ---
 
 ### 📫 Let's Connect
